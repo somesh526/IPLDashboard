@@ -14,3 +14,5 @@ Simple Application displays each IPL(Cricket Tournament) match details and resul
 > Using functional components and hooks the app consumes data from backend.
 > 
 > The UI of app is minimal and components are placed using css grid.
+
+Special Thanks to Koushik[**Java Brains**]
