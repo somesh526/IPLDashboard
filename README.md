@@ -2,6 +2,10 @@
 
 Simple Application displays each IPL(Cricket Tournament) match details and results from all seasons being played(2008-2021).
 
+<div align="center" width="500">
+ <img src="https://github.com/somesh526/IPLDashboard/blob/main/React.gif" alt="Welcome!" width="900"/>
+ </div>
+
 ### Technologies
 > The Application Backend is built on **SpringBoot**.
 > 
