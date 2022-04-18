@@ -6,7 +6,7 @@ Simple Application displays each IPL(Cricket Tournament) match details and resul
  <img src="https://github.com/somesh526/IPLDashboard/blob/main/React.gif" alt="Welcome!" width="900"/>
  </div>
 
-### Technologies
+### Development
 > The Application Backend is built on **SpringBoot**.
 > 
 > The data(IPL Dataset) is stored in csv file and processed to database(HSQL) using **Spring Batch**.
